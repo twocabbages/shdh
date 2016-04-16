@@ -1,0 +1,3 @@
+  INFO [5f58714b] Running /usr/bin/env cp --force /var/www/shdh/current/wp-config.production.php /var/www/shdh/current/wp-config.php as baicai@shdh.com.au
+ DEBUG [5f58714b] Command: /usr/bin/env cp --force /var/www/shdh/current/wp-config.production.php /var/www/shdh/current/wp-config.php
+baicai@shdh.com.au's password: 
